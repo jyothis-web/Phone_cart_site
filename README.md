@@ -1,5 +1,5 @@
 # PhoneCart
-https://anime-tube.netlify.app/
+https://phone-cart-demo.netlify.app/
 
 ## Overview
 
